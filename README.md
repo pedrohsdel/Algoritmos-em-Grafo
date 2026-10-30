@@ -1,1 +1,2 @@
-# Algoritmo-de-Dijkstra---Grafo-orientado
+# Algoritmos em Grafo
+## Algoritmo de Djikstra
